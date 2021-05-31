@@ -1,0 +1,33 @@
+body{
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	background-color: #23BAC4;
+}
+
+h2{
+	text-align: center;
+	font-family: arial black;
+	color: #C82A54;
+}
+
+h1{
+	text-align: center;
+	font-family: arial;
+	color: black;
+}
+
+h3{
+	font-family: arial black;
+	color: #000080
+}
+
+p{
+	font-family: arial;
+}
+
+a{
+	font-family: arial black;
+	color: #800080;
+}
